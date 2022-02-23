@@ -1,3 +1,3 @@
 # Programovanie v Pythone
 
-**Cvičenie 1** - číselné dátové typy, string, boolean.
+**Hodina 1** - úvod do programovania, inštalácia Python
