@@ -50,7 +50,7 @@ print(person_name)
 print(name, surname)
 
 
-# Metóda count () vracia počet výskytu hodnoty  v reťazci
+# Metóda count() vracia počet výskytu hodnoty v reťazci
 txt = "Tomas Tatar is New Jersey Devils player in NHL, Jersey"
 
 value = txt.count("Jersey", 25)
@@ -58,27 +58,27 @@ value = txt.count("Jersey", 25)
 print(value)
 
 
-# Metóda find () vyhľadá prvý výskyt hľadanej hodnoty
+# Metóda find() vyhľadá prvý výskyt hľadanej hodnoty
 # Metóda index, vráti index hľdandého prvku
 print(txt.find("NHL"))
 print(txt.index("r"))
 
-# Metóda lower () vráti reťazec, v ktorom sú všetky znaky malé
+# Metóda lower() vráti reťazec, v ktorom sú všetky znaky malé
 print(txt.lower())
 
 
-# Metóda join () zoberie všetky položky do iterovateľnej formy a spojí ich do jedného reťazca.
+# Metóda join() zoberie všetky položky do iterovateľnej formy a spojí ich do jedného reťazca.
 my_variable = "This is my string 1"
 my_variable2 =' This is my string 2'
 print(my_variable.join(my_variable2))
 
 
-# Metóda split () rozdelí reťazec na zoznam (list)
+# Metóda split() rozdelí reťazec na zoznam (list)
 my_string = "10840;Gillian-Hardwicke;Gillian.Hardwicke@email.com;2400"
 employee = my_string.split(";")
 print(employee)
 
-# Metóda strip () odstráni všetky medzery na začiatku a na konci reťazca
+# Metóda strip() odstráni všetky medzery na začiatku a na konci reťazca
 input_text = "       User         "
 value = input_text.strip()
 print(f"Dĺžka reťazca je {len(value)} znakov, výstup: {value}")
