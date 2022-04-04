@@ -5,3 +5,4 @@
 **Hodina 3** - dátové typy dictionary, funkcie, rekurzia  
 **Hodina 4** - dátové typy list, tuple, set, regulárne výrazy  
 **Hodina 5** - NumPy pole, regulárne výrazy, príklad regex, zoradanie, práca so súbormi  
+**Hodina 5** - Výnimky (try - except), úvod do OOP  
