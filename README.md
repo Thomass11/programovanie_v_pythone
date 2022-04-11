@@ -6,3 +6,4 @@
 **Hodina 4** - dátové typy list, tuple, set, regulárne výrazy  
 **Hodina 5** - NumPy pole, regulárne výrazy, príklad regex, zoradanie, práca so súbormi  
 **Hodina 6** - referencie a hodnoty, výnimky (try - except), úvod do OOP  
+**Hodina 7** - statická metóda, dedenie (jednoduché, viacúrovňové, viacnásobné)  
