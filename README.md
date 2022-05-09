@@ -8,3 +8,5 @@
 **Hodina 6** - referencie a hodnoty, výnimky (try - except), úvod do OOP  
 **Hodina 7** - statická metóda, dedenie (jednoduché, viacúrovňové, viacnásobné)  
 **Hodina 8** - enkapsulácia  
+**Hodina 9** - abstrakcia  
+
