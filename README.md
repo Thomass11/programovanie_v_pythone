@@ -9,4 +9,4 @@
 **Hodina 7** - statická metóda, dedenie (jednoduché, viacúrovňové, viacnásobné)  
 **Hodina 8** - enkapsulácia  
 **Hodina 9** - abstrakcia  
-
+**Hodina 10** - databázy, správa pamäte, paralelné programovanie - úvod  
