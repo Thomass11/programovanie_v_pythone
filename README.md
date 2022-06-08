@@ -10,3 +10,4 @@
 **Hodina 8** - enkapsulácia  
 **Hodina 9** - abstrakcia  
 **Hodina 10** - databázy, správa pamäte, paralelné programovanie - úvod  
+**Hodina 11** - paralelizmus - worker vlákna vs daemon vlákna, synchronizácia - zámky, join  
